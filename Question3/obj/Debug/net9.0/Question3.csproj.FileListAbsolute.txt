@@ -1,0 +1,15 @@
+C:\Users\Stephen\Downloads\L300\318\dcit318-assignment3-11297632\Question3\bin\Debug\net9.0\Question3.exe
+C:\Users\Stephen\Downloads\L300\318\dcit318-assignment3-11297632\Question3\bin\Debug\net9.0\Question3.deps.json
+C:\Users\Stephen\Downloads\L300\318\dcit318-assignment3-11297632\Question3\bin\Debug\net9.0\Question3.runtimeconfig.json
+C:\Users\Stephen\Downloads\L300\318\dcit318-assignment3-11297632\Question3\bin\Debug\net9.0\Question3.dll
+C:\Users\Stephen\Downloads\L300\318\dcit318-assignment3-11297632\Question3\bin\Debug\net9.0\Question3.pdb
+C:\Users\Stephen\Downloads\L300\318\dcit318-assignment3-11297632\Question3\obj\Debug\net9.0\Question3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stephen\Downloads\L300\318\dcit318-assignment3-11297632\Question3\obj\Debug\net9.0\Question3.AssemblyInfoInputs.cache
+C:\Users\Stephen\Downloads\L300\318\dcit318-assignment3-11297632\Question3\obj\Debug\net9.0\Question3.AssemblyInfo.cs
+C:\Users\Stephen\Downloads\L300\318\dcit318-assignment3-11297632\Question3\obj\Debug\net9.0\Question3.csproj.CoreCompileInputs.cache
+C:\Users\Stephen\Downloads\L300\318\dcit318-assignment3-11297632\Question3\obj\Debug\net9.0\Question3.sourcelink.json
+C:\Users\Stephen\Downloads\L300\318\dcit318-assignment3-11297632\Question3\obj\Debug\net9.0\Question3.dll
+C:\Users\Stephen\Downloads\L300\318\dcit318-assignment3-11297632\Question3\obj\Debug\net9.0\refint\Question3.dll
+C:\Users\Stephen\Downloads\L300\318\dcit318-assignment3-11297632\Question3\obj\Debug\net9.0\Question3.pdb
+C:\Users\Stephen\Downloads\L300\318\dcit318-assignment3-11297632\Question3\obj\Debug\net9.0\Question3.genruntimeconfig.cache
+C:\Users\Stephen\Downloads\L300\318\dcit318-assignment3-11297632\Question3\obj\Debug\net9.0\ref\Question3.dll
